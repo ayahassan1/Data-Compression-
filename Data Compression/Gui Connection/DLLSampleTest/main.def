@@ -1,0 +1,3 @@
+EXPORTS	
+Compression @1
+WriteCodeToFile @2
